@@ -4,7 +4,7 @@ Tags: HTML, static website generator, static site, secure, fast
 Requires at least: 5.4
 Tested up to: 6.0
 Requires PHP: 7.4
-Stable tag: 2.1.5.8
+Stable tag: 2.1.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -47,25 +47,11 @@ Develop your site locally and only push the static exported website on a server.
 
 I highly recommend not to use another tool for local development if you are not a programmer as in most cases manual package installation is required.
 
-
-== Simply CDN ==
-
-[Simply CDN](https://simplycdn.io) is the simplest way to bring your Simply Static generated static website online.
-
-You can easily export your static website directly from Simply Static to Simply CDN.
-
-Simply CDN will optimize your static website for the best performance and security without technical challenges.
-
-Take your WordPress website offline and manage it from your local computer with tools like [LocalWP](https://localwp.com/) and host your static website with Simply CDN.
-
-It will also send all form submissions to your configured e-mail address - there is no reason not to shut down your WordPress website anymore.
-
-What can go wrong with the 7-day free trial and the detailed [documentation](https://simplycdn.io/documentation)?
-
-
 == Simply Static Pro ==
 
 The pro version of Simply Static enhances the plugin with various features.
+
+[youtube https://www.youtube.com/watch?v=PwdO6B7Iet0]
 
 = GitHub Integration =
 
@@ -84,7 +70,6 @@ This allows deploying your static website to:
 * BunnyCDN (and other CDN providers)
 * SFTP to your server
 
-Learn more about that [here](https://patrickposner.dev/docs/simply-static/setting-up-the-github-integration)
 
 = Builds and Single Exports =
 
@@ -94,7 +79,6 @@ Never sit back and watch a full static export running, instead run a complete ex
 
 You can also export single pages/posts after changed something.
 
-Learn more about that [here](https://patrickposner.dev/docs/simply-static/how-to-update-content-on-your-static-website)
 
 = Forms =
 
@@ -102,7 +86,6 @@ Simply Static Pro supports Contact Form 7 and Gravity Forms to use on your stati
 
 You can decide if you want to use an external service like Zapier and IFTTT or if your original WordPress website should handle the submission and send you an e-mail with all the details.
 
-Learn more about that [here](https://patrickposner.dev/docs/simply-static/set-up-forms)
 
 = Search =
 
@@ -110,7 +93,6 @@ Use a fully static search solution that does not rely on any Third-Party-Provide
 
 The search supports autosuggestion and fuzzy logic and is by default way more convenient than your default WordPress search.
 
-Learn more about that [here](https://patrickposner.dev/docs/simply-static/set-up-search)
 
 = Comments =
 
@@ -118,15 +100,12 @@ Enable comments on your static website without the requirement of Third-Party-Pr
 
 After a comment was submitted, Simply Static automatically exports a new static version of the post. You don't have to do anything.
 
-Learn more about that [here](https://patrickposner.dev/docs/simply-static/set-up-comments)
 
 = Multilingual =
 
-Simply Static Pro enables you to export multilingual websites build with WPML, Polylang, or Translatepress.
+Use WPML, Polylang or TranslatePress and run static exports per language or all at once.
 
-Configure settings per language, export languages individually or all languages at once.
-
-You can even use the built-in language switchers from the most popular translation plugins without modifications.
+Simply Static Pro also supports configuring settings per language, using the available language switchers and more to export a your multilingual website as easy as possible.
 
 
 = Get the Pro version =
@@ -199,6 +178,20 @@ Simply Static creates a static copy of your WordPress site that is intended to b
 3. Diagnostics
 
 == Changelog ==
+
+= 2.1.6 =
+
+* adding <link> and <meta> tags to extractor class
+* validating URLs in meta tags and update them
+
+= 2.1.5.9 =
+
+* better decoding/encoding of URLs
+* added filter to modify default file extension
+* improved tag based extraction and removed catch all
+* added <picture> tags to extractor
+* increased default batch size
+* file path check improvements
 
 = 2.1.5.8 =
 

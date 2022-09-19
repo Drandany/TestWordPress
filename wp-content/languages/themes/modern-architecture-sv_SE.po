@@ -1,0 +1,528 @@
+# Translation of Themes - Modern Architecture in Swedish
+# This file is distributed under the same license as the Themes - Modern Architecture package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-24 16:36:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Themes - Modern Architecture\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Modern Architecture"
+msgstr "Modern Architecture"
+
+#: inc/customizer.php:350
+msgid "Show / Hide Back to Top"
+msgstr "Visa/dölj ”Tillbaka till toppen”"
+
+#: inc/customizer.php:183
+msgid "Show / Hide Topbar"
+msgstr "Visa/dölj topplist"
+
+#: functions.php:204
+msgid "https://www.luzukdemo.com/docs/modern-architecture/"
+msgstr "https://www.luzukdemo.com/docs/modern-architecture/"
+
+#: inc/customizer.php:94
+msgid "Right"
+msgstr "Höger"
+
+#: inc/customizer.php:84
+msgid "Left"
+msgstr "Vänster"
+
+#: inc/customizer.php:74
+msgid "Bottom"
+msgstr "Botten"
+
+#: inc/customizer.php:64
+msgid "Top"
+msgstr "Toppen"
+
+#: inc/customizer.php:54
+msgid "Logo Padding"
+msgstr "Loggans padding"
+
+#: inc/getting-started/getting-started.php:110
+msgid "100% Multi language"
+msgstr "100&nbsp;% flerspråkig"
+
+#: inc/getting-started/getting-started.php:106
+msgid "Code written with WordPress standard"
+msgstr "Kod skriven med WordPress-standard"
+
+#: inc/getting-started/getting-started.php:102
+msgid "Custom Read More link"
+msgstr "Anpassad länk ”Läs mer”"
+
+#: inc/getting-started/getting-started.php:98
+msgid "Multiple Page Templates"
+msgstr "Flera sidmallar"
+
+#: inc/getting-started/getting-started.php:94
+msgid "Limit to display number of Posts"
+msgstr "Begränsa att visa antal inlägg"
+
+#: inc/getting-started/getting-started.php:90
+msgid "Woocommerce Support"
+msgstr "Stöd för WooCommerce"
+
+#: inc/getting-started/getting-started.php:86
+msgid "Hide/Show Sections"
+msgstr "Dölj/visa sektioner"
+
+#: inc/getting-started/getting-started.php:82
+msgid "Fully Responsive"
+msgstr "Helt responsivt"
+
+#: inc/getting-started/getting-started.php:78
+msgid "Custom Colors and Images"
+msgstr "Anpassade färger och bilder"
+
+#: inc/getting-started/getting-started.php:74
+msgid "Custom Innerpage Banner"
+msgstr "Anpassad banderoll för inre sidor"
+
+#: inc/getting-started/getting-started.php:70
+msgid "Theme Options"
+msgstr "Temaalternativ"
+
+#: inc/getting-started/getting-started.php:66
+msgid "Banner Slider"
+msgstr "Banner som bildspel"
+
+#: inc/getting-started/getting-started.php:63
+msgid "PREMIUM THEME FEATURES"
+msgstr "FUNKTIONER FÖR PREMIUMTEMA"
+
+#: inc/getting-started/getting-started.php:59
+msgid "Pro Documentation"
+msgstr "Dokumentation om Pro"
+
+#: inc/getting-started/getting-started.php:58
+msgid "Buy Pro"
+msgstr "Köp Pro"
+
+#: inc/getting-started/getting-started.php:57
+msgid "Live Demo"
+msgstr "Live-demo"
+
+#: inc/getting-started/getting-started.php:53
+msgid "Premium Theme Information"
+msgstr "Information om premiumtema"
+
+#: inc/getting-started/getting-started.php:39
+msgid "Send your query to our"
+msgstr "Skicka din fråga till vår"
+
+#: inc/getting-started/getting-started.php:37
+#: inc/getting-started/getting-started.php:39
+msgid "Support"
+msgstr "Support"
+
+#: inc/getting-started/getting-started.php:33
+msgid "and start customizing your website"
+msgstr "och börja anpassa din webbplats"
+
+#: inc/getting-started/getting-started.php:33
+msgid "Customizer"
+msgstr "Anpassare"
+
+#: inc/getting-started/getting-started.php:33
+msgid "Go to"
+msgstr "Gå till"
+
+#: inc/getting-started/getting-started.php:31
+msgid "Start Customizing"
+msgstr "Börja anpassa"
+
+#: inc/getting-started/getting-started.php:5
+msgid "About Theme"
+msgstr "Om temat"
+
+#: functions.php:206
+msgid "https://wordpress.org/support/theme/modern-architecture/"
+msgstr "https://wordpress.org/support/theme/modern-architecture/"
+
+#: functions.php:205
+msgid "https://www.luzuk.com/product/architecture-wordpress-theme/"
+msgstr "https://www.luzuk.com/product/architecture-wordpress-theme/"
+
+#: functions.php:203
+msgid "https://www.luzukdemo.com/demo/modern-architecture/"
+msgstr "https://www.luzukdemo.com/demo/modern-architecture/"
+
+#: functions.php:73
+msgid "GET STARTED"
+msgstr "KOM IGÅNG"
+
+#: functions.php:71
+msgid "Welcome to Luzuk!!"
+msgstr "Välkommen till Luzuk!!"
+
+#: template-parts/footer/site-info.php:12
+msgid "By Luzuk"
+msgstr "Av Luzuk"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:27
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s svar på ”%2$s”"
+msgstr[1] "%1$s svar på ”%2$s”"
+
+#. translators: %s: post title
+#: comments.php:22
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Ett svar på ”%s”"
+
+#: template-parts/page/content-page.php:22
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: template-parts/post/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar som att vi inte kan hitta det du letar efter. Prova att göra en sökning."
+
+#. translators: %s: Post editor URL.
+#: template-parts/post/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Redo att publicera ditt första inlägg? <a href=\"%s\">Kom igång här</a>."
+
+#: template-parts/post/content.php:25 template-parts/post/grid-layout.php:25
+msgid "Read More"
+msgstr "Läs mer"
+
+#: template-parts/post/content-single.php:18 template-parts/post/content.php:18
+#: template-parts/post/grid-layout.php:18
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: template-parts/post/content-single.php:18 template-parts/post/content.php:18
+#: template-parts/post/grid-layout.php:18
+msgid "0 Comments"
+msgstr "0 kommentarer"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:39
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Redigera<span class=\"screen-reader-text\"> ”%s”</span>"
+
+#: inc/template-tags.php:19
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:339 inc/customizer.php:359
+msgid "Footer Text"
+msgstr "Sidfotstext"
+
+#: inc/customizer.php:323
+msgid "Image Size (58px x 58px)"
+msgstr "Bildstorlek (58px × 58px)"
+
+#: inc/customizer.php:322
+msgid "Select Category to display Post"
+msgstr "Välj kategori att visa inlägg"
+
+#: inc/customizer.php:299
+msgid "Add Section Heading"
+msgstr "Lägg till sektionsrubrik"
+
+#: inc/customizer.php:279
+msgid "This section will appear below the slider."
+msgstr "Denna sektion kommer synas under bildspelet."
+
+#: inc/customizer.php:260
+msgid "Show / Hide slider"
+msgstr "Visa/dölj bildspel"
+
+#: inc/customizer.php:249
+msgid "Slider Settings"
+msgstr "Inställning för bildspel"
+
+#: inc/customizer.php:243
+msgid "Add Pinterest URL"
+msgstr "Lägg till Pinterest-URL"
+
+#: inc/customizer.php:233
+msgid "Add Linkedin URL"
+msgstr "Lägg till Linkedin-URL"
+
+#: inc/customizer.php:223
+msgid "Add Instagram URL"
+msgstr "Lägg till Instagram-URL"
+
+#: inc/customizer.php:213
+msgid "Add Twitter URL"
+msgstr "Lägg till Twitter-URL"
+
+#: inc/customizer.php:203
+msgid "Add Facebook URL"
+msgstr "Lägg till Facebook-URL"
+
+#: inc/customizer.php:193
+msgid "Add Text"
+msgstr "Lägg till text"
+
+#: inc/customizer.php:172
+msgid "Topbar Section"
+msgstr "Sektion för topplist"
+
+#: inc/customizer.php:166
+msgid "Grid Layout"
+msgstr "Rutnätslayout"
+
+#: inc/customizer.php:165
+msgid "Four Columns"
+msgstr "Fyra kolumner"
+
+#: inc/customizer.php:164
+msgid "Three Columns"
+msgstr "Tre kolumner"
+
+#: inc/customizer.php:163
+msgid "One Column"
+msgstr "En kolumn"
+
+#: inc/customizer.php:161
+msgid "Left Sidebar"
+msgstr "Vänster sidopanel"
+
+#: inc/customizer.php:158
+msgid "Do you want this section"
+msgstr "Vill du ha denna sektion"
+
+#: inc/customizer.php:147
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+#: inc/customizer.php:143
+msgid "Description of what this panel does."
+msgstr "Beskrivning för vad denna panel gör."
+
+#: inc/customizer.php:142
+msgid "Theme Settings"
+msgstr "Temainställningar"
+
+#: inc/customizer.php:124
+msgid "Show / Hide Site Tagline"
+msgstr "Visa/dölj webbplatsen slogan"
+
+#: inc/customizer.php:104
+msgid "Show / Hide Site Title"
+msgstr "Visa/dölj webbplatsrubriken"
+
+#: inc/customizer.php:19
+msgid "Go Pro"
+msgstr "Skaffa Pro"
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "Din beställning"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Du måste vara inloggad för att kunna betala."
+
+#: single.php:34 single.php:60 single.php:85 single.php:110 single.php:137
+#: single.php:165 single.php:192
+msgid "Next Post"
+msgstr "Nästa inlägg"
+
+#: single.php:33 single.php:59 single.php:84 single.php:109 single.php:136
+#: single.php:164 single.php:191
+msgid "Previous Post"
+msgstr "Föregående inlägg"
+
+#: searchform.php:18
+msgctxt "submit button"
+msgid "Search"
+msgstr "Sök"
+
+#: searchform.php:16
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Sök"
+
+#: searchform.php:15
+msgid "Search for:"
+msgstr "Sök efter:"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det verkar som om inget hittades på denna plats. Kanske prova en sökning?"
+
+#: 404.php:18
+msgid "Return to home page"
+msgstr "Tillbaka till startsida"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppsan! Den sidan kan inte hittas."
+
+#: search.php:40 search.php:76 search.php:112 search.php:147 search.php:185
+#: search.php:224 search.php:263
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Inget matchade dina söktermer. Försök igen med några andra nyckelord."
+
+#: search.php:17 template-parts/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "Inget hittades"
+
+#. translators: %s: search term
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: page-template/custom-home-page.php:89
+msgid "Learn More"
+msgstr "Lär dig mer"
+
+#: page-template/custom-home-page.php:55 single.php:34 single.php:60
+#: single.php:85 single.php:110 single.php:137 single.php:165 single.php:192
+msgid "Next"
+msgstr "Nästa"
+
+#: page-template/custom-home-page.php:54
+msgid "NEXT"
+msgstr "NÄSTA"
+
+#: page-template/custom-home-page.php:51 single.php:33 single.php:59
+#: single.php:84 single.php:109 single.php:136 single.php:164 single.php:191
+msgid "Previous"
+msgstr "Föregående"
+
+#: page-template/custom-home-page.php:50
+msgid "PREV"
+msgstr "FÖREG."
+
+#. Template Name of the theme
+msgid "Custom Home"
+msgstr "Anpassad hem"
+
+#. Template Name of the theme
+msgid "Page left sidebar"
+msgstr "Sida vänster sidopanel"
+
+#. Template Name of the theme
+msgid "Page right sidebar"
+msgstr "Sida höger sidopanel"
+
+#: functions.php:139
+msgid "Footer 4"
+msgstr "Sidfot 4"
+
+#: functions.php:129
+msgid "Footer 3"
+msgstr "Sidfot 3"
+
+#: functions.php:119
+msgid "Footer 2"
+msgstr "Sidfot 2"
+
+#: functions.php:111 functions.php:121 functions.php:131 functions.php:141
+msgid "Add widgets here to appear in your footer."
+msgstr "Lägg till widgetar som ska visas i din sidfot här."
+
+#: functions.php:109
+msgid "Footer 1"
+msgstr "Sidfot 1"
+
+#: functions.php:99
+msgid "Sidebar 3"
+msgstr "Sidopanel 3"
+
+#: functions.php:91 functions.php:101
+msgid "Add widgets here to appear in your pages and posts"
+msgstr "Lägg till widgetar som ska visas i dina sidor och inlägg här"
+
+#: functions.php:89
+msgid "Sidebar 2"
+msgstr "Sidopanel 2"
+
+#: functions.php:81
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Lägg till widgetar som ska visas i din sidopanel på blogginlägg och arkivsidor här."
+
+#: functions.php:79
+msgid "Blog Sidebar"
+msgstr "Blogg sidopanel"
+
+#: functions.php:39
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: archive.php:50 archive.php:83 archive.php:116 archive.php:148
+#: archive.php:182 archive.php:217 archive.php:250 index.php:50 index.php:85
+#: index.php:119 index.php:154 index.php:190 index.php:226 index.php:256
+#: search.php:52 search.php:88 search.php:124 search.php:159 search.php:197
+#: search.php:236 search.php:275
+msgid "Page"
+msgstr "Sida"
+
+#: archive.php:49 archive.php:82 archive.php:115 archive.php:147
+#: archive.php:181 archive.php:216 archive.php:249 index.php:49 index.php:84
+#: index.php:118 index.php:153 index.php:189 index.php:225 index.php:255
+#: search.php:51 search.php:87 search.php:123 search.php:158 search.php:196
+#: search.php:235 search.php:274
+msgid "Next page"
+msgstr "Nästa sida"
+
+#: archive.php:48 archive.php:81 archive.php:114 archive.php:146
+#: archive.php:180 archive.php:215 archive.php:248 index.php:48 index.php:83
+#: index.php:117 index.php:152 index.php:188 index.php:224 index.php:254
+#: search.php:50 search.php:86 search.php:122 search.php:157 search.php:195
+#: search.php:234 search.php:273
+msgid "Previous page"
+msgstr "Förgående sida"
+
+#: archive.php:24 inc/customizer.php:162 index.php:25 search.php:23
+#: single.php:15
+msgid "Right Sidebar"
+msgstr "Höger sidopanel"
+
+#: index.php:18
+msgid "Posts"
+msgstr "Inlägg"
+
+#: header.php:106
+msgid "Close Menu"
+msgstr "Stäng meny"
+
+#: header.php:96
+msgid "Top Menu"
+msgstr "Toppmeny"
+
+#: header.php:92
+msgid "Open Menu"
+msgstr "Öppna meny"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.luzuk.com/"
+msgstr "https://www.luzuk.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Luzuk"
+msgstr "Luzuk"
+
+#. Theme URI of the theme
+#: functions.php:207
+#, gp-priority: low
+msgid "https://www.luzuk.com/themes/free-architecture-wordpress-theme/"
+msgstr "https://www.luzuk.com/themes/free-architecture-wordpress-theme/"
